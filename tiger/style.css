@@ -1,0 +1,13 @@
+div.body{
+    position: relative;
+}
+
+div.title{
+    position: absolute;
+    left: 27%;
+    top: 50%;
+}
+
+img{
+    width: 50%;
+}
